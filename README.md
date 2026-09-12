@@ -1,4 +1,5 @@
 # 🚗 Monitoreo Inteligente de Ingreso Vehicular (ALPR)
+<img width="1459" height="693" alt="image" src="https://github.com/user-attachments/assets/ac09642b-cc1d-49c2-9f69-fa1772da1414" />
 
 ## 📌 Descripción del Proyecto
 El presente proyecto consiste en el desarrollo de una aplicación web interactiva diseñada para el control y verificación vehicular en entornos académicos. El sistema integra tecnologías web modernas con un servicio externo de **Reconocimiento Automático de Placas de Matrícula (ALPR)** mediante una arquitectura basada en peticiones **REST API**.
